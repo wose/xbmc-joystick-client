@@ -1,0 +1,4 @@
+* xbmc-joystick-client
+
+This is a simple XBMC EventServer client, which translates joystick events to keypresses in XBMC. I build this to get quick and dirty joystick support for raspbmc.
+
